@@ -1,0 +1,26 @@
+[
+  {
+    "Question":"What is Generative AI and when did it become prominent?",
+    "Answer":"Generative AI, or Gen AI, is a form of AI that became prominent in late 2022 with the release of the AI chatbot ChatGPT, capable of generating human-like, high-quality content quickly."
+  },
+  {
+    "Question":"What role did ChatGPT, Google Bard, and Microsoft Copilot play in AI adoption in 2023?",
+    "Answer":"They exposed the power and potential of AI to corporate businesses and the general public."
+  },
+  {
+    "Question":"What are some outputs and tasks that generative AI foundation models can achieve?",
+    "Answer":"Outputs include text, computer code, images, and videos. Tasks include producing marketing and advertising material, website building, video editing, and document summarisation."
+  },
+  {
+    "Question":"What was the amount of capital (VC) investment in generative AI solutions in the first six months of 2023?",
+    "Answer":"$12 billion USD."
+  },
+  {
+    "Question":"What was the increase in the number of generative AI instances from late 2022 to June 2023?",
+    "Answer":"The number of generative AI instances increased from just under 2000 in late 2022 to nearly 14,000 by June 2023."
+  },
+  {
+    "Question":"What are AI chatbots and give examples?",
+    "Answer":"AI chatbots are artificial intelligence systems like Google Bard or Microsoft CoPilot that interact with users through natural language."
+  }
+]
